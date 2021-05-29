@@ -1,2 +1,2 @@
-# CFD_DEM_SuperSettler
+# CFD-DEM SuperSettler Software Design
 Free software for the numerical design of SuperSettlers through CFD-DEM. 
